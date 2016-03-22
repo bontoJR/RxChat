@@ -1,7 +1,7 @@
 RxChat
 ========
 
-Example of the chat develop using Rx, presented during mDevConf.
+Example of the chat develop using Rx, presented during mDevConf and Swift Aveiro.
 
 How to use
 -
